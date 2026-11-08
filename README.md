@@ -30,11 +30,11 @@ A responsive Django e-commerce store for the MNR bridal couture house: homepage 
    python manage.py runserver
    ```
 
-5. Open the site: http://127.0.0.1:8000/
+5. Open the site: http://127.0.0.1:8019/
 
 ## Admin
 
-- URL: http://127.0.0.1:8000/admin/
+- URL: http://127.0.0.1:8019/admin/
 - Username: `admin`
 - Password: `MNR@2026`
 
