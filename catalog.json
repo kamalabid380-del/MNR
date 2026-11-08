@@ -1,0 +1,876 @@
+[
+  {
+    "handle": "harpreet-kaur",
+    "name": "Harpreet Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 660000,
+    "compare_price": null,
+    "description": "<p>The Peshwas features intricate multi-machine embroidery, tilla border work, patchwork, and detailed adda work with zardozi, naqshi, sequin work, mirror work, and pearls. The lehenga is made in check jacquard, paired with a net dupatta finished with a velvet border. The second dupatta is a combination of net and organza, featuring a sequin border, organza pallu, and net patching, along with heavy embellishment and intricate adda work.</p>",
+    "available": true,
+    "image": "products/harpreet-kaur.jpg"
+  },
+  {
+    "handle": "seerat-kaur",
+    "name": "Seerat Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 690000,
+    "compare_price": null,
+    "description": "<p>The lehenga choli features multiple tissue and diamond silk borders, adorned with floral motifs and intricate multi-machine embroidery. The detailed adda work includes naqshi, dabka, pearls, sequins, gota and moti, creating a delicate fairytale-inspired look. The first dupatta is crafted in net with a tissue pallu, featuring intricate floral embroidery. The second dupatta is made in net with organza lines, finished with kiran for a refined look.</p>",
+    "available": true,
+    "image": "products/seerat-kaur.jpg"
+  },
+  {
+    "handle": "sukhdeep-kaur",
+    "name": "Sukhdeep Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 595000,
+    "compare_price": null,
+    "description": "<p>A vibrant fuchsia pink lehenga choli crafted in Diamond Silk, accented with subtle orange hints and orange organza patchwork. The ensemble features intricate floral Tilla, Badla embroidery with adda work Gota, Pearls, Dabka, Naqshi, and Sequins. The first organza dupatta features a four-sided floral border with heavily embroidered pallu, while the second organza dupatta is finished with a pink organza pallu patch and floral border.</p>",
+    "available": true,
+    "image": "products/sukhdeep-kaur.jpg"
+  },
+  {
+    "handle": "deep-kaur",
+    "name": "Deep Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 590000,
+    "compare_price": null,
+    "description": "<p>A vibrant orange lehenga choli crafted in Net, accented with subtle Hot Pink hints and Hot Pink organza patchwork. The ensemble features intricate floral Tilla, Badla embroidery with adda work Gota, Pearls, Dabka, Naqshi, and Sequins. The first organza dupatta features a four-sided floral border with heavily embroidered pallu, while the second organza dupatta is finished with a pink organza pallu patch and floral border.</p>",
+    "available": true,
+    "image": "products/deep-kaur.jpg"
+  },
+  {
+    "handle": "gurpreet-kaur",
+    "name": "Gurpreet Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 680000,
+    "compare_price": null,
+    "description": "<p>A regal majenta purple lehenga choli crafted in Diamond Silk, featuring intricate floral Tilla and Badla embroidery. The embellishment is enriched with Naqshi, Tilla, Badla, Pearls, Gota, and Sequins, creating an elegant and detailed finish. The first net dupatta is framed with a velvet scalloped border and adorned with delicate, intricate floral motifs throughout. The second net dupatta features detailed trains and lappa work on the pallu, finished with elegant Kiran detailing for a refined look.</p>",
+    "available": true,
+    "image": "products/gurpreet-kaur.jpg"
+  },
+  {
+    "handle": "chardhi-qala",
+    "name": "Chardhi Qala",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 725000,
+    "compare_price": null,
+    "description": "<p>A sophisticated brown lehenga choli, featuring a geometric jaal on the choli. The lehenga is detailed with a heavy bottom border, floral elements, and an intricate jaal. The embroidery combines Tilla, Bali, and Resham work, enriched with Naqshi, Dabka, Pearls, and Sequins. The first net dupatta features a heavy pallu border with an intricate sequined adda jaal. The second dupatta is crafted entirely in organza, finished with elegant vertical lines for a clean and sophisticated look.</p>",
+    "available": true,
+    "image": "products/chardhi-qala.jpg"
+  },
+  {
+    "handle": "manjot-kaur",
+    "name": "Manjot Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 650000,
+    "compare_price": null,
+    "description": "<p>A rich brick red lehenga choli featuring a beautifully scalloped choli. The lehenga is finished with a velvet bottom border and intricate all-over embroidery using Badla, Tilla, and Resham. The choli and lehenga features detailed adda work with Naqshi, Badla, Tilla, Pearls, and Sequins, complemented by delicate net patchwork on the sleeves. The first net dupatta features a heavy scalloped pallu with a velvet border and a four-sided velvet border. The second dupatta is crafted in Jamawar organza, finished on the pallu with Lappa and trims.</p>",
+    "available": true,
+    "image": "products/manjot-kaur.jpg"
+  },
+  {
+    "handle": "prem-kaur",
+    "name": "Prem Kaur",
+    "collections": [
+      "kaur-bridals",
+      "bridals"
+    ],
+    "price": 540000,
+    "compare_price": null,
+    "description": "<p>A striking red long shirt crafted in italian Silk, featuring floral embroidery in a V-shaped neckline embroidery complemented by an intricate all-over jaal. The hem is finished with a combination of floral and geometric borders. The sharara is crafted in velvet double chan sequins, adding richness and volume to the silhouette. The first net dupatta features organza patchwork on the pallu and is finished with a four-sided floral border. The second dupatta is a printed organza, detailed with subtle Sequins and trims. The ensemble is completed with intricate adda work, featuring Sequins, Badla, Tilla, Pearls, and Gota. </p>",
+    "available": true,
+    "image": "products/prem-kaur.jpg"
+  },
+  {
+    "handle": "vanilla",
+    "name": "Vanilla",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 47500,
+    "compare_price": null,
+    "description": "<p>A karandi shirt featuring a delicate 3D embroidered floral border, paired with a plain karandi trouser. The look is completed with a printed dupatta, finished with elegant trims on all four sides for a polished and graceful ensemble.</p>",
+    "available": true,
+    "image": "products/vanilla.jpg"
+  },
+  {
+    "handle": "mystic-gold",
+    "name": "Mystic Gold",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 52500,
+    "compare_price": null,
+    "description": "<p>A 3D floral embroidered shirt highlighted with an organza pleated border on the sleeves, paired with a sleek silk trouser. The ensemble is completed with a chiffon dupatta, delicately finished with trims on all four sides for an elegant touch.</p>",
+    "available": true,
+    "image": "products/mystic-gold.jpg"
+  },
+  {
+    "handle": "mint-chip",
+    "name": "Mint Chip",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 57500,
+    "compare_price": null,
+    "description": "<p>A silk embroidered shirt enhanced with elegant trims and pleated organza detailing, paired with an embroidered silk trouser. The look is completed with a tie-and-dye crush dupatta, finished with delicate trims on all four sides for a statement finish.</p>",
+    "available": true,
+    "image": "products/mint-chip.jpg"
+  },
+  {
+    "handle": "blue-berry",
+    "name": "Blue Berry",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 48500,
+    "compare_price": null,
+    "description": "<p>A silk embroidered shirt enhanced with refined trims and pleated organza detailing, paired with an embroidered silk trouser. The ensemble is completed with a tie-and-dye crushed dupatta, finished with trims on all four sides for an elegant, statement look.</p>",
+    "available": true,
+    "image": "products/blue-berry.jpg"
+  },
+  {
+    "handle": "tiramisu",
+    "name": "Tiramisu",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 54500,
+    "compare_price": null,
+    "description": "<p>A diamond and silk embroidered shirt paired with an embroidered silk trouser. The look is completed with a sheer organza dupatta, finished with elegant trims on all four sides for a refined and graceful finish</p>",
+    "available": true,
+    "image": "products/tiramisu.jpg"
+  },
+  {
+    "handle": "butter-pecan",
+    "name": "Butter Pecan",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 54500,
+    "compare_price": null,
+    "description": "<p>An embroidered silk shirt adorned with delicate 3D floral detailing, enhanced with checked organza borders and refined trims. Paired with silk pants featuring 3D floral embroidery, the look is completed with a crushed organza dupatta for an elegant and contemporary finish.</p>",
+    "available": true,
+    "image": "products/butter-pecan.jpg"
+  },
+  {
+    "handle": "very-berry",
+    "name": "Very Berry",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 55500,
+    "compare_price": null,
+    "description": "<p>A self-embroidered silk shirt enhanced with delicate lace detailing and refined trims, paired with a silk trouser. The ensemble is completed with a crushed organza dupatta, finished with a silk embroidered border for an elegant and graceful look.</p>",
+    "available": true,
+    "image": "products/very-berry.jpg"
+  },
+  {
+    "handle": "blue-moon",
+    "name": "Blue Moon",
+    "collections": [
+      "luxury-pret",
+      "chai-coffee",
+      "women"
+    ],
+    "price": 47500,
+    "compare_price": null,
+    "description": "<p>A silk shirt adorned with floral embroidery and enhanced with refined trims, paired with a sleek silk trouser. The look is completed with a printed dupatta for a graceful and effortless finish.</p>",
+    "available": true,
+    "image": "products/blue-moon.jpg"
+  },
+  {
+    "handle": "reet",
+    "name": "Reet",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 124500,
+    "compare_price": null,
+    "description": "<p>Crafted in a soothing sage green hue, this raw silk shirt is beautifully adorned with rich badla embroidery and delicate light adda work, exuding understated opulence. Paired with a voluminous cotton net sharara and a soft chaan organza dupatta, this ensemble is a timeless ode to festive elegance.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span><br></p>",
+    "available": true,
+    "image": "products/reet.jpg"
+  },
+  {
+    "handle": "neelum",
+    "name": "Neelum",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 79500,
+    "compare_price": null,
+    "description": "<p>A statement in timeless elegance, this navy blue ramen silk shirt is exquisitely adorned with rich badla and anchor thread embroidery, delicately elevated with intricate adda work on the hem and neckline. Paired with a sleek ramen silk trouser and an embroidered organza dupatta, this ensemble reflects refined craftsmanship and festive sophistication.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span><br></p>",
+    "available": true,
+    "image": "products/neelum.jpg"
+  },
+  {
+    "handle": "mitti",
+    "name": "Mitti",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 87500,
+    "compare_price": null,
+    "description": "<p>Crafted in luxurious brown diamond silk, this shirt features intricate badla and dori embroidery enhanced with delicate adda work. Paired with a matching diamond silk trouser and a soft chaan organza dupatta, the ensemble reflects refined festive charm.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span><br></p>",
+    "available": true,
+    "image": "products/mitti.jpg"
+  },
+  {
+    "handle": "ardaas",
+    "name": "Ardaas",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 164500,
+    "compare_price": null,
+    "description": "<p>  An ethereal lilac double-flair pishwas crafted in delicate chaan chiffon with a soft cotton net second flair, featuring intricate badla and anchor embroidery enriched with adda work. Paired with a chaan organza dupatta and choridar, this ensemble embodies timeless festive grace.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span><br></p>",
+    "available": true,
+    "image": "products/ardaas.jpg"
+  },
+  {
+    "handle": "rano",
+    "name": "Rano",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 195000,
+    "compare_price": null,
+    "description": "<p>Drenched in deep wine red hues, this Italian silk choli is a portrait of artisanal luxury, adorned with intricate embroidery and delicate adda embellishments. Styled with a richly embroidered lehnga and an ethereal organza dupatta framed with an embroidered border, the ensemble radiates old-world romance and timeless opulence.<br><br><span style=\"color: rgb(238, 17, 17);\"><strong>* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design.</strong></span></p>",
+    "available": true,
+    "image": "products/rano.jpg"
+  },
+  {
+    "handle": "patiala",
+    "name": "Patiala",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 159500,
+    "compare_price": null,
+    "description": "<p>Rendered in a soft baby pink palette, this self kacha tilla pishwas is intricately adorned with luminous badla and tilla embroidery, delicately elevated with refined adda craftsmanship. Paired with an ethereal chaan net dupatta featuring a graceful kacha tilla border and a traditional choridar, the ensemble captures timeless elegance with an understated festive allure.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span><br></p>",
+    "available": true,
+    "image": "products/patiala.jpg"
+  },
+  {
+    "handle": "sheesh",
+    "name": "Sheesh",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 139500,
+    "compare_price": null,
+    "description": "<p>An embodiment of timeless grace, this milky white cotton net shirt is framed with a delicate chata patti border and enriched with intricate badla embroidery, elevated by exquisite adda work. Paired with a beautifully embroidered cotton net lehenga, the ensemble captures ethereal elegance with a refined festive allure.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span><br></p>",
+    "available": true,
+    "image": "products/sheesh.jpg"
+  },
+  {
+    "handle": "pannu",
+    "name": "Pannu",
+    "collections": [
+      "formals",
+      "punjab-festive-edit"
+    ],
+    "price": 138500,
+    "compare_price": null,
+    "description": "<p>A timeless black ensemble where heritage craftsmanship meets understated glamour. This diamond silk shirt features intricate badla and dori embroidery, delicately enriched with appliqué artistry, paired seamlessly with an embroidered sharara and an organza dupatta for an effortlessly regal statement.<br><br><span style=\"color: rgb(238, 17, 17);\">* Back design shown is for styling &amp; photoshoot purposes only. The actual outfit will feature a modest back design. </span></p>",
+    "available": true,
+    "image": "products/pannu.jpg"
+  },
+  {
+    "handle": "uraan",
+    "name": "Uraan",
+    "collections": [
+      "menswear"
+    ],
+    "price": 27500,
+    "compare_price": null,
+    "description": "<p>This short-length kurta is crafted in self jacquard fabric, featuring loop buttons on the neckline and an embroidered border on the patka, paired with loose bottom trousers for a chic, comfortable look.</p>",
+    "available": true,
+    "image": "products/uraan.jpg"
+  },
+  {
+    "handle": "jashan",
+    "name": "Jashan",
+    "collections": [
+      "menswear"
+    ],
+    "price": 24500,
+    "compare_price": null,
+    "description": "<p>Crafted in self jacquard fabric, the short kurta is detailed with loops and a subtle neckline trim, complemented by relaxed bottom trousers.</p>",
+    "available": true,
+    "image": "products/jashan.jpg"
+  },
+  {
+    "handle": "zaki",
+    "name": "Zaki",
+    "collections": [
+      "menswear"
+    ],
+    "price": 34500,
+    "compare_price": null,
+    "description": "<p>Featuring a waistcoat from the Eid Collection and a kurta-trouser set from the Ramzan Collection, this ensemble is made in luxurious imported suiting fabric, offering elegance and comfort for special occasions.</p>",
+    "available": true,
+    "image": "products/zaki.jpg"
+  },
+  {
+    "handle": "momin-2",
+    "name": "Momin",
+    "collections": [
+      "menswear"
+    ],
+    "price": 27500,
+    "compare_price": null,
+    "description": "<p>Classic white ensemble crafted for a clean and sophisticated look. Designed with a front-buttoned placket and stylish round cuffs for a refined finish. The shalwar features a traditional dori at the bottom for added comfort and detail. Paired with a collarless, front-buttoned waistcoat adorned with elegant golden button accents and round pockets without flaps, this outfit embodies timeless grace and modern simplicity.</p>",
+    "available": true,
+    "image": "products/momin-2.jpg"
+  },
+  {
+    "handle": "majestic-man",
+    "name": "Majestic Man",
+    "collections": [
+      "menswear",
+      "celebrity-spotted"
+    ],
+    "price": 95000,
+    "compare_price": null,
+    "description": "<p>A self-fabric kurta and trouser set layered with a self karandi jacket, intricately detailed with anchor and dori work. The rich textures and handcrafted embellishments create a refined and sophisticated look.</p>",
+    "available": true,
+    "image": "products/majestic-man.jpg"
+  },
+  {
+    "handle": "ismail",
+    "name": "Ismail",
+    "collections": [
+      "menswear",
+      "celebrity-spotted"
+    ],
+    "price": 22500,
+    "compare_price": null,
+    "description": "<p>A self cotton jacquard kurta crafted with subtle texture, paired with a comfortable lawn cotton trouser. Enhanced with intricate handwork on the neckline and borders, along with detailed accents on the sleeves and hem for a refined finish.</p>",
+    "available": true,
+    "image": "products/ismail.jpg"
+  },
+  {
+    "handle": "zartash",
+    "name": "Zartash",
+    "collections": [
+      "menswear"
+    ],
+    "price": 24500,
+    "compare_price": null,
+    "description": "<p>A cotton kurta and trouser set paired with a self cotton patka, offering a blend of comfort and tradition. Detailed with motif accents on the pocket and borders, and finished with intricate aari work on the patka for an artisanal touch.</p>",
+    "available": true,
+    "image": "products/zartash.jpg"
+  },
+  {
+    "handle": "mirza-1",
+    "name": "Mirza",
+    "collections": [
+      "menswear"
+    ],
+    "price": 89500,
+    "compare_price": null,
+    "description": "<p>Elegant Mirza Sherwani featuring fine Adda work on the collar and intricately designed Adda work on the sleeve borders, enhancing its regal appeal. The sherwani is further adorned with detailed embroidery work on both the front and back, creating a rich and sophisticated look. Crafted to reflect traditional craftsmanship with a royal finish, this piece is perfect for weddings, receptions, and grand ceremonial occasions.</p>",
+    "available": true,
+    "image": "products/mirza-1.jpg"
+  },
+  {
+    "handle": "ronak-e-chaman-4",
+    "name": "Ronak-e-Chaman",
+    "collections": [
+      "sale"
+    ],
+    "price": 52500,
+    "compare_price": 110000,
+    "description": "<p>A striking black organza peshwas, adorned with fully embroidered panels that showcase intricate craftsmanship. The bodice features geometric tile repeats, beautifully complemented by bold statement center motifs that add depth and character. It is paired with a crushed gradient dupatta that introduces soft movement and contrast, along with a classic churidar, completing the look with a regal yet contemporary finish.</p>",
+    "available": true,
+    "image": "products/ronak-e-chaman-4.jpg"
+  },
+  {
+    "handle": "ronak-e-bahar-4",
+    "name": "Ronak-e-Bahar",
+    "collections": [
+      "sale"
+    ],
+    "price": 44750,
+    "compare_price": 89500,
+    "description": "<p>An olive green open shirt featuring intricately embroidered panels, enhanced with subtle adda accents for a refined touch. The design is beautifully framed with geometric sequin and tilla borders throughout, adding depth and structure. It is paired with a ramen silk sharara, creating a graceful, flowing silhouette. Styled with a soft pink organza dupatta, detailed with a bordered pallu and finished with delicate trim, the ensemble comes together with an elegant and contemporary charm.</p>",
+    "available": true,
+    "image": "products/ronak-e-bahar-4.jpg"
+  },
+  {
+    "handle": "qissa-4",
+    "name": "Qissa",
+    "collections": [
+      "sale"
+    ],
+    "price": 28750,
+    "compare_price": 57500,
+    "description": "<p>Qissa – An apple green cambric shirt, beautifully detailed with a refined border and intricate adda work that adds a handcrafted charm. It is paired with a cotton net lower, enhanced with printed broder for subtle texture and contrast. The look is completed with a twin chaan dupatta, finished with a printed pallu tile, lending a delicate festive finish to this fresh and graceful ensemble.</p>",
+    "available": true,
+    "image": "products/qissa-4.jpg"
+  },
+  {
+    "handle": "junoon-4",
+    "name": "Junoon",
+    "collections": [
+      "sale"
+    ],
+    "price": 32250,
+    "compare_price": 64500,
+    "description": "<p>Junoon, An ivory cambric printed shirt, beautifully highlighted with a graceful border and intricate adda work that adds artisanal charm. It is paired with a matching cambric shalwar, detailed with a coordinating border for a balanced and polished look. The ensemble is completed with a single chaan organza dupatta, lending a soft sheen and festive elegance to this timeless creation.</p>",
+    "available": true,
+    "image": "products/junoon-4.jpg"
+  },
+  {
+    "handle": "sheesh-4",
+    "name": "Sheesh",
+    "collections": [
+      "sale"
+    ],
+    "price": 69750,
+    "compare_price": 139500,
+    "description": "<p>An embodiment of timeless grace, this milky white cotton net shirt is framed with a delicate chata patti border and enriched with intricate badla embroidery, elevated by exquisite adda work. Paired with a beautifully embroidered cotton net lehenga, the ensemble captures ethereal elegance with a refined festive allure.</p>",
+    "available": true,
+    "image": "products/sheesh-4.jpg"
+  },
+  {
+    "handle": "noor-e-chaand-4",
+    "name": "Noor-e-Chaand",
+    "collections": [
+      "sale"
+    ],
+    "price": 55500,
+    "compare_price": 127500,
+    "description": "<p>A creamy white chiffon embossed peshwas that captures understated elegance, highlighted by contrasting tilla and sequin borders for a touch of shimmer. The bodice is intricately detailed with delicate dori work and subtle embellished motifs, adding depth and refinement. It is paired with a classic churidar, while a matching embossed chiffon dupatta, finished with a refined border, completes the ensemble with graceful sophistication.</p>",
+    "available": true,
+    "image": "products/noor-e-chaand-4.jpg"
+  },
+  {
+    "handle": "butter-pecan-4",
+    "name": "Butter Pecan",
+    "collections": [
+      "sale"
+    ],
+    "price": 27250,
+    "compare_price": 54500,
+    "description": "<p>An embroidered silk shirt adorned with delicate 3D floral detailing, enhanced with checked organza borders and refined trims. Paired with silk pants featuring 3D floral embroidery, the look is completed with a crushed organza dupatta for an elegant and contemporary finish.</p>",
+    "available": true,
+    "image": "products/butter-pecan-4.jpg"
+  },
+  {
+    "handle": "sahar-e-lilac-4",
+    "name": "Sahar-e-Lilac",
+    "collections": [
+      "sale"
+    ],
+    "price": 62250,
+    "compare_price": 124500,
+    "description": "<p>A lilac chiffon peshwas, adorned with delicate panel embroidery and subtle adda accents for a refined touch. It is paired with a classic churidar and styled with a single-chan organza patched chiffon dupatta featuring graceful floral block print, creating a soft, elegant, and effortlessly sophisticated ensemble.</p>",
+    "available": true,
+    "image": "products/sahar-e-lilac-4.jpg"
+  },
+  {
+    "handle": "neel-e-raunaq",
+    "name": "Neel-e-Ronak",
+    "collections": [
+      "celebrity-spotted"
+    ],
+    "price": 67500,
+    "compare_price": null,
+    "description": "<p>A navy blue self-textured Afghani kurta featuring a block-printed and embroidered neckline with subtle adda accents, enhanced by structured panel and hem borders. Paired with a coordinating shalwar with block print detailing, and finished with a pink double-chan organza dupatta featuring block print patches and a blue chiffon center adorned with delicate embroidery.</p>",
+    "available": false,
+    "image": "products/neel-e-raunaq.jpg"
+  },
+  {
+    "handle": "sleek-ivory",
+    "name": "Sleek Ivory",
+    "collections": [
+      "celebrity-spotted"
+    ],
+    "price": 69500,
+    "compare_price": null,
+    "description": "<p>A chic ensemble featuring a self-fabric jacket paired with a luxurious silk bottom, enhanced with intricate dori embellishments. The refined detailing adds texture and elegance, making it a perfect statement for festive wear.</p>",
+    "available": true,
+    "image": "products/sleek-ivory.jpg"
+  },
+  {
+    "handle": "floral-whisher",
+    "name": "Floral Whisher",
+    "collections": [
+      "celebrity-spotted"
+    ],
+    "price": 69500,
+    "compare_price": null,
+    "description": "<p>A long lilac cotton karandi shirt adorned with intricate all-over floral embroidery, finished with a delicately detailed border on all sides. Paired with a graceful chiffon dupatta featuring subtle block print accents for a soft, elegant finish.</p>",
+    "available": true,
+    "image": "products/floral-whisher.jpg"
+  },
+  {
+    "handle": "bloom-essence",
+    "name": "Bloom Essence",
+    "collections": [
+      "celebrity-spotted"
+    ],
+    "price": 64500,
+    "compare_price": null,
+    "description": "<p>A self cotton shirt featuring a fully embroidered neckline and hem, enhanced with intricate cutwork and subtle adda detailing, finished with a printed border. Paired with a matching sharara with printed panels and a double-chan chiffon dupatta adorned with a delicate printed border.</p>",
+    "available": true,
+    "image": "products/bloom-essence.jpg"
+  },
+  {
+    "handle": "purple-mist",
+    "name": "Purple Mist",
+    "collections": [
+      "celebrity-spotted"
+    ],
+    "price": 64500,
+    "compare_price": null,
+    "description": "<p>A purple ramen silk shirt and shalwar set, elegantly highlighted with light adda work on the neckline and hem. Paired with a bamber organza dupatta, featuring four-sided embroidery and delicate adda detailing for a graceful festive finish.</p>",
+    "available": true,
+    "image": "products/purple-mist.jpg"
+  },
+  {
+    "handle": "zauq-e-khaas",
+    "name": "Zauq-e-Khaas",
+    "collections": [
+      "celebrity-spotted"
+    ],
+    "price": 74500,
+    "compare_price": null,
+    "description": "<p>A long paneled cambric peshwas adorned with gotta-trimmed panels and delicate trim detailing on the neckline and hem. Paired with a chiffon dupatta finished with matching gotta trim for a graceful, festive look.</p>",
+    "available": true,
+    "image": "products/zauq-e-khaas.jpg"
+  },
+  {
+    "handle": "gulab-begum",
+    "name": "Gulab Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 184500,
+    "compare_price": null,
+    "description": "<p>A stunning maroon lehenga choli adorned with rich tilla and badla embroidery, elevated by delicate adda work. Paired with a modern-cut choli, this ensemble blends regal craftsmanship with contemporary design for a truly refined look.</p>",
+    "available": true,
+    "image": "products/gulab-begum.jpg"
+  },
+  {
+    "handle": "noor-begum",
+    "name": "Noor Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 154500,
+    "compare_price": null,
+    "description": "<p>An off-white three-panel shirt delicately embroidered and finished with finely detailed sequin embroidery. The look is complemented by a sharara adorned with elegant trims, paired with an organza dupatta featuring graceful floral patches for a perfectly balanced and refined finish.</p>",
+    "available": true,
+    "image": "products/noor-begum.jpg"
+  },
+  {
+    "handle": "sukh-taj-begum",
+    "name": "Sukh Taj Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 110000,
+    "compare_price": null,
+    "description": "<p>A black Indian silk shirt paired with a matching Indian silk sharara. The sharara is highlighted with delicate floral embroidery and a refined border, while the shirt is elevated with intricate adda work. Finished with a statement dupatta detailed with trims, crushed gota, and kiran for a rich festive appeal.</p>",
+    "available": true,
+    "image": "products/sukh-taj-begum.jpg"
+  },
+  {
+    "handle": "chand-begum",
+    "name": "Chand Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 159500,
+    "compare_price": null,
+    "description": "<p>An elegant white peshwas featuring intricate adda embroidery on the bodice, finished with a graceful lappa and distinctive borders along the hem. Paired with a classic churidar detailed with crushed gota, and complemented by a dupatta crafted in varied organza patterns for a soft, ethereal finish.</p>",
+    "available": true,
+    "image": "products/chand-begum.jpg"
+  },
+  {
+    "handle": "naaz-begum",
+    "name": "Naaz Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 137500,
+    "compare_price": null,
+    "description": "<p>An ice blue fully embroidered jacket with intricate adda work, layered over an embroidered corset. Paired with a panelled sharara featuring gota detailing and bordered edging, the look is finished with a scalloped dupatta for a refined, contemporary statement.</p>",
+    "available": true,
+    "image": "products/naaz-begum.jpg"
+  },
+  {
+    "handle": "jan-begum",
+    "name": "Jan Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 147500,
+    "compare_price": null,
+    "description": "<p>An orange long shirt accented with a deep purple velvet neckline adorned with intricate embroidery. Velvet-detailed churidar sleeves add richness, paired with a crushed sharara for fluid movement. The look is completed with an organza dupatta finished with twin chan and velvet scalloped corners for a refined festive appeal.</p>",
+    "available": true,
+    "image": "products/jan-begum.jpg"
+  },
+  {
+    "handle": "dildar-begum",
+    "name": "Dildar Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 79500,
+    "compare_price": null,
+    "description": "<p>A teal blue shalwar kameez paired with a gota-bordered shalwar and a block-printed embroidered jacket adorned with intricate adda work. The look is completed with a tie-dye organza dupatta for a contemporary festive finish.</p>",
+    "available": true,
+    "image": "products/dildar-begum.jpg"
+  },
+  {
+    "handle": "mehak-begum",
+    "name": "Mehak Begum",
+    "collections": [
+      "begum-shaadi"
+    ],
+    "price": 179500,
+    "compare_price": null,
+    "description": "<p>A pastel green organza peshwas adorned with intricate adda embroidery, paired with a cotton silk lehenga finished with a detailed border. Completed with an organza dupatta featuring delicate floral boti and four-sided borders for a graceful, ethereal finish.</p>",
+    "available": true,
+    "image": "products/mehak-begum.jpg"
+  },
+  {
+    "handle": "jaun",
+    "name": "Jaun",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 59500,
+    "compare_price": null,
+    "description": "<p>An elegant grey ensemble crafted for understated Nikkah sophistication. The subtle block printing blends seamlessly with delicate Resham and Badla embroidery, creating a refined look that speaks of grace, purity, and timeless tradition.</p>",
+    "available": true,
+    "image": "products/jaun.jpg"
+  },
+  {
+    "handle": "pari-zad",
+    "name": "Pari Zad",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 62500,
+    "compare_price": null,
+    "description": "<p>Soft, serene, and deeply romantic — this Misty Rose outfit is adorned with fine Resham and Badla embroidery, elevated by exquisite Adda work. Perfectly suited for the sacred charm of a Nikkah ceremony, it embodies purity and gentle celebration.</p>",
+    "available": true,
+    "image": "products/pari-zad.jpg"
+  },
+  {
+    "handle": "mirza",
+    "name": "Mirza",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 34500,
+    "compare_price": null,
+    "description": "<p>A calming Ice Blue creation in self-textured Karandi, enriched with artisanal Achor stitching and meticulous Adda work. Its ethereal tone and handcrafted detailing make it an ideal choice for a serene and graceful Nikkah look.</p>",
+    "available": true,
+    "image": "products/mirza.jpg"
+  },
+  {
+    "handle": "mir",
+    "name": "Mir",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 39500,
+    "compare_price": null,
+    "description": "<p>This regal Olive Green ensemble features an Indian Silk waistcoat adorned with Achor embroidery, patch accents, and refined Adda work. A distinguished piece for the groom or a close family member — perfect for a dignified Nikkah appearance.</p>",
+    "available": true,
+    "image": "products/mir.jpg"
+  },
+  {
+    "handle": "sahir",
+    "name": "Sahir",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 34500,
+    "compare_price": null,
+    "description": "<p>A dreamy Lilac outfit designed in airy Cotton Net, highlighted with classic Achor embroidery and shimmering Tilla detailing. Velvet patchwork adds depth and richness, making it an elegant choice for the soft, sacred ambiance of a Nikkah day.</p>",
+    "available": true,
+    "image": "products/sahir.jpg"
+  },
+  {
+    "handle": "hasrat",
+    "name": "Hasrat",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 64500,
+    "compare_price": null,
+    "description": "<p>Crafted in luxurious Raw Silk, this Beige Gold Prince Coat set (paired with kurta and trousers) is adorned with Tilla, Badla, and refined Adda work. A majestic ensemble made for the groom who prefers classic opulence for his Nikkah ceremony.</p>",
+    "available": true,
+    "image": "products/hasrat.jpg"
+  },
+  {
+    "handle": "daud-jan",
+    "name": "Daud Jan",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 44500,
+    "compare_price": null,
+    "description": "<p>A soothing Dusty Green outfit featuring premium Raw Silk with intricate embroidery, luminous Tilla work, and delicate Adda embellishments. Designed to embody subtle luxury, it complements the serene and spiritual aura of a Nikkah event.</p>",
+    "available": true,
+    "image": "products/daud-jan.jpg"
+  },
+  {
+    "handle": "pasha",
+    "name": "Pasha",
+    "collections": [
+      "nikkah-mubarak"
+    ],
+    "price": 62500,
+    "compare_price": null,
+    "description": "<p>Vibrant yet refined, this Turquoise Ramen Silk ensemble features classic Anchor embroidery and traditional Tilla detailing. Bold and celebratory, it’s perfect for adding a touch of joyful color to Nikkah festivities.</p>",
+    "available": true,
+    "image": "products/pasha.jpg"
+  },
+  {
+    "handle": "gul-begum",
+    "name": "Gul Begum",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 395000,
+    "compare_price": null,
+    "description": "<p><span>Begum arrives in deep maroon Indian silk, lavishly adorned with silk appliquÃ©s, block-printed motifs, and shimmering hand adda embroidery. The lehengaâ€™s structured silhouette begins with a chevron pattern cinching the waist, then flows into diamond-shaped lozenge motifs meticulously embroidered in silken threads and mirror work. The hem flares into majestic Mughal arches niche-like in form are finished with twin borders of radiant golden embroidery and glittering embellishment that gleam with every step. The long-sleeved choli features angular cuts at the sleeve ends, reflecting the strong architectural shapes that define the ensemble. A sheer organza dupatta, scattered with a delicate spray of sequins and mirrors, floats like stardust, its four borders richly embroidered in gold and edged with traditional kiran trims that shimmer with movement</span></p>",
+    "available": true,
+    "image": "products/gul-begum.jpg"
+  },
+  {
+    "handle": "gul-badan",
+    "name": "Gul Badan",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 420000,
+    "compare_price": null,
+    "description": "<p><span>A garden in full bloom, Gul Badan iscrafted from rose pink Indian silk and soaked in old-school romance. The choli is short, with demure half sleeves dusted with judiciously placed mirror work and glints of metallic thread embroidery. The lehenga begins at the waist with chevron patterning and evolves into diamond-shaped panels, each box housing a Mughal floral motif rendered in a mix of silken thread embroidery, block print, and tiny mirrors that glint like dew. Beneath this garden of geometry, vertical scrolls rise like creeping vines embroidered delicately in lines that mimic antique architectural flourishes. The hem is finished with multiple embroidered borders that layer like sari pallus from a bygone era. A contrasting organza dupatta in lush green explodes with large, bold floral Mughal motifs in gota and adda work, framed in broad gold borders with embroidered trims running along all four edges.</span></p>",
+    "available": true,
+    "image": "products/gul-badan.jpg"
+  },
+  {
+    "handle": "gul-e-khaas-1",
+    "name": "Gul-e-Khaas",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 425000,
+    "compare_price": null,
+    "description": "<p><span>Gul-e-Khaas is something rare done in dark green Indian silk ensemble, bold and botanical, starts with a sleeveless choli in floral printed silk, traced with golden embroidery across the neckline and straps like delicate vines creeping along marble. The lehenga spills open like a secret Mughal garden, featuring appliquÃ©s of the same floral print, layered over block-printed motifs and enhanced with gota patti, mirror work, and fine hand embroidery. The spade-like motifs cascade downward and transform into intricate geometric patterns inspired by Mughal ceiling art symmetrical, hypnotic, and rich in detail. Lines of sequins and mirrorwork slash through the skirt like glints of sun in foliage. The hemline is a spectacle unto itself, with an ornate Mughal border densely embroidered in golden threadwork. The matching organza dupatta is no less opulent, blooming with large and small printed flowers at both ends, accented with gota patti and adda work, framed by embroidered borders and finished with charming kiran trims and fluttering tassels</span></p>",
+    "available": true,
+    "image": "products/gul-e-khaas-1.jpg"
+  },
+  {
+    "handle": "gul-e-jaan",
+    "name": "Gul-e-Jaan",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 440000,
+    "compare_price": null,
+    "description": "<p><span>GulÃ© Jaan is dipped in the pale luminescence of icy blue Indian silk. The choli, long-sleeved with a graceful boat neckline, features a double-sleeve illusion and subtle structure, embroidered in golden thread with twinkling pearls that dangle at the cuffs like icicles on a window ledge. The lehenga is composed of angular silk appliquÃ© panels stitched together like stained glass, each one enclosing a peacock motif picked out in sequins and zari. Across the expanse, palmette-shaped borders stretch in angular symmetry, embroidered in fine gold thread, leading to a finely decorated hemline that sparkles like snow caught in twilight. The organza dupatta, light as a frost-kissed breeze, is embroidered with soft flowers in silken and metallic threads, framed with a scalloped internal border and edged in traditional golden kiran</span></p>",
+    "available": true,
+    "image": "products/gul-e-jaan.jpg"
+  },
+  {
+    "handle": "mahjabeen",
+    "name": "Mahjabeen",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 385000,
+    "compare_price": null,
+    "description": "<p><span>Mahjabeen is soft, white, and crafted in cream Indian silk, the ensemble is steeped in old-world techniques: silk appliquÃ©s, block print, adda embroidery, and glimmering mirror work. The choli is cut in a halter style, accentuated by Mughal jaali patterns in threadwork that enclose delicate gota patti florets like latticework backlit by sunrise. The panelled lehenga begins with a gentle spray of ascending Mughal motifs stitched in thread, building into wave-like chevrons, and ending in an explosion of large floral motifs reminiscent of miniature garden murals. These are all bordered with wide bands of embroidery, mirror work, and hand-done Mughal jaali inspired designs. The organza dupatta is an artwork in itself, featuring chevrons in sequins on both ends, scattered Mughal florals, and four glistening borders in gota and adda, each edge finished in soft golden kiran</span></p>",
+    "available": true,
+    "image": "products/mahjabeen.jpg"
+  },
+  {
+    "handle": "dil-raas",
+    "name": "Dil Raas",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 395000,
+    "compare_price": null,
+    "description": "<p><span>Dark and dramatic as a broody ghazal, Dil Ras in black Indian silk features a full-sleeved choli that is dotted with a constellation of miniature motifs embroidered in metallic and silken threads, making it a starry sky of its own. The lehenga begins in deep maroon panels that gently bleed into black, layered with printed and embroidered cypress trees and Levantine palmettes that rise like architectural sentinels. Each motif is carefully block printed and hand-embellished with glittering mirrorwork, sequins, and golden thread. The hemline is circled with rich maroon and gold borders, stacked and layered like antique inlay on a treasure chest. The organza dupatta carries maroon and gold floral sprays across its breadth, shimmering with gota pati and adda work, edged with embroidered trims on all four sides.</span></p>",
+    "available": true,
+    "image": "products/dil-raas.jpg"
+  },
+  {
+    "handle": "arjumand",
+    "name": "Arjumand",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 345000,
+    "compare_price": null,
+    "description": "<p><span>Like its namesake Empress, Arjumand is a study in refined power and poetic beauty. Crafted in off-white Indian silk and blooming with printed appliquÃ©s, block print, embroidery, mirror work, and hand adda, itâ€™s a composition both painterly and precise. The choli features a delicately cut floral neckline and half sleeves embroidered with metallic thread vines, scattered with sequins and glinting beadwork. The lehenga tells its own story: peach-colored blossoms and jade green leaves swirl into wide panels that open like Mughal fans, evolving into floral scallops and ending in a repeat border of flowers. Multiple Mughal-inspired borders rim the hem, densely embroidered in thread, sequins, and mirrorwork. The organza dupatta echoes these floral roundels, its motifs encased in decorative frames and lit with subtle embroidery. Trims run all around the border, finished with tassels that swing like flirtation itself.</span></p>",
+    "available": true,
+    "image": "products/arjumand.jpg"
+  },
+  {
+    "handle": "zeb-un-nissa",
+    "name": "Zeb-un-Nissa",
+    "collections": [
+      "zma-meena"
+    ],
+    "price": 395000,
+    "compare_price": null,
+    "description": "<p><span>Named after the fierce poet-princess, Zeb-un-Nissa is rendered in royal purple Indian silk, this ensemble is saturated with opulence: silk appliquÃ©s, block print, adda embroidery, and mirror shimmer. The choli has full sheer sleeves that are dusted with golden motifs and framed with layered decorative borders in embroidery, sequins, and beads. Its neckline is traced with gold floral vines that curl like verses from a ghazal. The lehenga begins with persian boteh motif, then transitions into slender cypress trees, before bursting into a symphony of circular vines and paisley patterns all block printed in gold and embroidered by hand with sequins, mirror work, and metallic threads. The hemline is wrapped in multiple embroidered borders layered with gota patti and finishing trims. The organza dupatta is no less regal, featuring decorative roundels and Mughal jaali-inspired motifs, edged with thick gold borders and beaded tassels that flirt with the wind</span></p>",
+    "available": true,
+    "image": "products/zeb-un-nissa.jpg"
+  }
+]
